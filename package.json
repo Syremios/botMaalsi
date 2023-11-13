@@ -1,0 +1,12 @@
+{
+  "name": "botMaalsi",
+  "version": "1.0.0",
+  "description": "Bot pour le serveur Maalsi 23-25",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^14.13.0",
+    "dotenv": "^16.3.1",
+    "node-schedule": "^2.1.1",
+    "puppeteer": "^21.3.8"
+  }
+}
